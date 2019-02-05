@@ -1,13 +1,11 @@
 body {
     background-color: #fff;
+
     background: url(https://wallpaperplay.com/walls/full/c/0/0/86223.jpg);
     background-size: cover;
     background-position: center;
 
 }
-
-
-
 body,
 html {
     width: 100%;
@@ -15,7 +13,6 @@ html {
     font-family: "Lato";
     color: white;
 }
-
 .content{
     padding-top: 25%;
     text-align: center;
@@ -24,7 +21,6 @@ html {
                  0px 18px 23px rgba(0,0,0,0.1);
 
 }
-
 
 .no-display {
     display: none;
@@ -45,8 +41,6 @@ html {
     margin-bottom: 1em;
     color: #262626;
 }
-
-
 
 .analyze {
     margin-top: 5em;
